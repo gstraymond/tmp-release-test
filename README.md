@@ -1,3 +1,3 @@
 # tmp-release-test
 
-hey 6
+hey 7
